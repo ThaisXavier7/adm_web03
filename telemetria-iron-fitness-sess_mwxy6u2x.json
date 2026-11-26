@@ -1,0 +1,6193 @@
+{
+  "schema": "BuscaWeb-Site-Telemetry",
+  "exportedAt": "2026-11-26T19:34:40.285Z",
+  "seoMeta": {
+    "title": "Iron Fitness | Academia e Saúde",
+    "metaDescription": "Conheça a Iron Fitness, uma academia com estrutura, orientação e treinos para melhorar sua saúde e qualidade de vida.",
+    "canonical": "https://seu-usuario.github.io/Iron-Fitness-academia/",
+    "htmlLang": "pt-BR",
+    "hasViewport": true,
+    "h1Count": 1,
+    "h2Count": 3,
+    "h3Count": 6,
+    "totalImages": 0,
+    "imagesWithoutAlt": 0,
+    "hasSchemaJsonLd": true,
+    "ctaCount": 12,
+    "wordCount": 305
+  },
+  "eventos": [
+    {
+      "sessao": "sess_mwxw47uz",
+      "tipo": "page_view",
+      "timestamp": 1795717973196,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 350,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do Projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw47uz",
+      "tipo": "time_on_section",
+      "timestamp": 1795717977224,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 322,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 4
+      }
+    },
+    {
+      "sessao": "sess_mwxw47uz",
+      "tipo": "exit",
+      "timestamp": 1795717988689,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 15,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4jvy",
+      "tipo": "page_view",
+      "timestamp": 1795717988782,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do Projet | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4jvy",
+      "tipo": "exit",
+      "timestamp": 1795717989598,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4kk7",
+      "tipo": "page_view",
+      "timestamp": 1795717989655,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4kk7",
+      "tipo": "exit",
+      "timestamp": 1795717989847,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ks6",
+      "tipo": "page_view",
+      "timestamp": 1795717989942,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ks6",
+      "tipo": "exit",
+      "timestamp": 1795717990104,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4kzo",
+      "tipo": "page_view",
+      "timestamp": 1795717990212,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nom | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4kzo",
+      "tipo": "exit",
+      "timestamp": 1795717990304,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4l4p",
+      "tipo": "page_view",
+      "timestamp": 1795717990393,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "No | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4l4p",
+      "tipo": "exit",
+      "timestamp": 1795717990663,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4le2",
+      "tipo": "page_view",
+      "timestamp": 1795717990730,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "N | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4le2",
+      "tipo": "exit",
+      "timestamp": 1795717991092,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4lqz",
+      "tipo": "page_view",
+      "timestamp": 1795717991195,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "| Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4lqz",
+      "tipo": "exit",
+      "timestamp": 1795717992047,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4mjz",
+      "tipo": "page_view",
+      "timestamp": 1795717992239,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "I | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4mjz",
+      "tipo": "exit",
+      "timestamp": 1795717992446,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4mxx",
+      "tipo": "page_view",
+      "timestamp": 1795717992741,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iro | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4mxx",
+      "tipo": "exit",
+      "timestamp": 1795717992791,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4n1k",
+      "tipo": "page_view",
+      "timestamp": 1795717992872,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4n1k",
+      "tipo": "exit",
+      "timestamp": 1795717992958,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4n55",
+      "tipo": "page_view",
+      "timestamp": 1795717993001,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4n55",
+      "tipo": "exit",
+      "timestamp": 1795717993769,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4nsq",
+      "tipo": "page_view",
+      "timestamp": 1795717993850,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron F | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4nsq",
+      "tipo": "exit",
+      "timestamp": 1795717994252,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4o5o",
+      "tipo": "page_view",
+      "timestamp": 1795717994316,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fi | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4o5o",
+      "tipo": "exit",
+      "timestamp": 1795717994428,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4oa5",
+      "tipo": "page_view",
+      "timestamp": 1795717994478,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fit | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4oa5",
+      "tipo": "exit",
+      "timestamp": 1795717994680,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ohl",
+      "tipo": "page_view",
+      "timestamp": 1795717994745,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitn | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ohl",
+      "tipo": "exit",
+      "timestamp": 1795717994890,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ond",
+      "tipo": "page_view",
+      "timestamp": 1795717994954,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitne | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ond",
+      "tipo": "exit",
+      "timestamp": 1795717995086,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ouo",
+      "tipo": "page_view",
+      "timestamp": 1795717995216,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitnes | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw4ouo",
+      "tipo": "exit",
+      "timestamp": 1795718046394,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 51,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5seo",
+      "tipo": "page_view",
+      "timestamp": 1795718046480,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5seo",
+      "tipo": "exit",
+      "timestamp": 1795718048229,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5tta",
+      "tipo": "page_view",
+      "timestamp": 1795718048302,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5tta",
+      "tipo": "exit",
+      "timestamp": 1795718048609,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5u4v",
+      "tipo": "page_view",
+      "timestamp": 1795718048719,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5u4v",
+      "tipo": "exit",
+      "timestamp": 1795718048824,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5uad",
+      "tipo": "page_view",
+      "timestamp": 1795718048917,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5uad",
+      "tipo": "exit",
+      "timestamp": 1795718049234,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5ul3",
+      "tipo": "page_view",
+      "timestamp": 1795718049303,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5ul3",
+      "tipo": "exit",
+      "timestamp": 1795718050991,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5vy9",
+      "tipo": "page_view",
+      "timestamp": 1795718051073,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5vy9",
+      "tipo": "exit",
+      "timestamp": 1795718051620,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wfi",
+      "tipo": "page_view",
+      "timestamp": 1795718051695,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wfi",
+      "tipo": "exit",
+      "timestamp": 1795718051810,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wkt",
+      "tipo": "page_view",
+      "timestamp": 1795718051885,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wkt",
+      "tipo": "exit",
+      "timestamp": 1795718051964,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wq0",
+      "tipo": "page_view",
+      "timestamp": 1795718052073,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wq0",
+      "tipo": "exit",
+      "timestamp": 1795718052153,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wtv",
+      "tipo": "page_view",
+      "timestamp": 1795718052211,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5wtv",
+      "tipo": "exit",
+      "timestamp": 1795718052350,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5x01",
+      "tipo": "page_view",
+      "timestamp": 1795718052433,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5x01",
+      "tipo": "exit",
+      "timestamp": 1795718052642,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5x7a",
+      "tipo": "page_view",
+      "timestamp": 1795718052694,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5x7a",
+      "tipo": "exit",
+      "timestamp": 1795718052796,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw5xcw",
+      "tipo": "page_view",
+      "timestamp": 1795718052896,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw5xcw",
+      "tipo": "exit",
+      "timestamp": 1795718061585,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 9,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw6457",
+      "tipo": "page_view",
+      "timestamp": 1795718061691,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitnes | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw6457",
+      "tipo": "exit",
+      "timestamp": 1795718062496,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw64ym",
+      "tipo": "page_view",
+      "timestamp": 1795718062750,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iro | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw64ym",
+      "tipo": "exit",
+      "timestamp": 1795718062961,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw656l",
+      "tipo": "page_view",
+      "timestamp": 1795718063038,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "I | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw656l",
+      "tipo": "exit",
+      "timestamp": 1795718063525,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw65m6",
+      "tipo": "page_view",
+      "timestamp": 1795718063598,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "| Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw65m6",
+      "tipo": "exit",
+      "timestamp": 1795718064323,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw669l",
+      "tipo": "page_view",
+      "timestamp": 1795718064442,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "N | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw669l",
+      "tipo": "exit",
+      "timestamp": 1795718064540,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw66dz",
+      "tipo": "page_view",
+      "timestamp": 1795718064599,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "No | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw66dz",
+      "tipo": "exit",
+      "timestamp": 1795718064844,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw66nz",
+      "tipo": "page_view",
+      "timestamp": 1795718064959,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nom | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw66nz",
+      "tipo": "exit",
+      "timestamp": 1795718064977,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw66r4",
+      "tipo": "page_view",
+      "timestamp": 1795718065072,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw66r4",
+      "tipo": "exit",
+      "timestamp": 1795718065202,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw66x2",
+      "tipo": "page_view",
+      "timestamp": 1795718065286,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw66x2",
+      "tipo": "exit",
+      "timestamp": 1795718065531,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw6760",
+      "tipo": "page_view",
+      "timestamp": 1795718065609,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome d | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw6760",
+      "tipo": "exit",
+      "timestamp": 1795718065992,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw67j2",
+      "tipo": "page_view",
+      "timestamp": 1795718066079,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw67j2",
+      "tipo": "exit",
+      "timestamp": 1795718066387,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw67up",
+      "tipo": "page_view",
+      "timestamp": 1795718066497,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw67up",
+      "tipo": "exit",
+      "timestamp": 1795718066725,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw683p",
+      "tipo": "page_view",
+      "timestamp": 1795718066821,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do p | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw683p",
+      "tipo": "exit",
+      "timestamp": 1795718066859,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw687p",
+      "tipo": "page_view",
+      "timestamp": 1795718066965,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do pr | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw687p",
+      "tipo": "exit",
+      "timestamp": 1795718066980,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw68au",
+      "tipo": "page_view",
+      "timestamp": 1795718067079,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do pro | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw68au",
+      "tipo": "exit",
+      "timestamp": 1795718067280,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw68j8",
+      "tipo": "page_view",
+      "timestamp": 1795718067380,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do proj | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw68j8",
+      "tipo": "exit",
+      "timestamp": 1795718067701,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw68w1",
+      "tipo": "page_view",
+      "timestamp": 1795718067841,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw68w1",
+      "tipo": "time_on_section",
+      "timestamp": 1795718073170,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 267,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxw68w1",
+      "tipo": "time_on_section",
+      "timestamp": 1795718077277,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 305,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 3
+      }
+    },
+    {
+      "sessao": "sess_mwxw68w1",
+      "tipo": "exit",
+      "timestamp": 1795718105937,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 38,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw72d5",
+      "tipo": "page_view",
+      "timestamp": 1795718106041,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw72d5",
+      "tipo": "exit",
+      "timestamp": 1795718107439,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw73i8",
+      "tipo": "page_view",
+      "timestamp": 1795718107520,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw73i8",
+      "tipo": "exit",
+      "timestamp": 1795718107740,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw73ro",
+      "tipo": "page_view",
+      "timestamp": 1795718107860,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw73ro",
+      "tipo": "exit",
+      "timestamp": 1795718107880,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw73z0",
+      "tipo": "page_view",
+      "timestamp": 1795718108127,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw73z0",
+      "tipo": "exit",
+      "timestamp": 1795718108490,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw74b1",
+      "tipo": "page_view",
+      "timestamp": 1795718108557,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw74b1",
+      "tipo": "exit",
+      "timestamp": 1795718108636,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw74es",
+      "tipo": "page_view",
+      "timestamp": 1795718108692,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw74es",
+      "tipo": "exit",
+      "timestamp": 1795718109148,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw74uu",
+      "tipo": "page_view",
+      "timestamp": 1795718109271,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw74uu",
+      "tipo": "exit",
+      "timestamp": 1795718110892,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw7666",
+      "tipo": "page_view",
+      "timestamp": 1795718110975,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw7666",
+      "tipo": "exit",
+      "timestamp": 1795718111122,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw76ct",
+      "tipo": "page_view",
+      "timestamp": 1795718111213,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw76ct",
+      "tipo": "exit",
+      "timestamp": 1795718111339,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw76ix",
+      "tipo": "page_view",
+      "timestamp": 1795718111433,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw76ix",
+      "tipo": "exit",
+      "timestamp": 1795718111691,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw76s1",
+      "tipo": "page_view",
+      "timestamp": 1795718111761,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw76s1",
+      "tipo": "exit",
+      "timestamp": 1795718111923,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw76y9",
+      "tipo": "page_view",
+      "timestamp": 1795718111985,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw76y9",
+      "tipo": "exit",
+      "timestamp": 1795718112205,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw775z",
+      "tipo": "page_view",
+      "timestamp": 1795718112263,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw775z",
+      "tipo": "exit",
+      "timestamp": 1795718112404,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw77ca",
+      "tipo": "page_view",
+      "timestamp": 1795718112491,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw77ca",
+      "tipo": "exit",
+      "timestamp": 1795718112780,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw77mq",
+      "tipo": "page_view",
+      "timestamp": 1795718112866,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw77mq",
+      "tipo": "exit",
+      "timestamp": 1795718113111,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw77vj",
+      "tipo": "page_view",
+      "timestamp": 1795718113184,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw77vj",
+      "tipo": "exit",
+      "timestamp": 1795718113540,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw788d",
+      "tipo": "page_view",
+      "timestamp": 1795718113645,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw788d",
+      "tipo": "exit",
+      "timestamp": 1795718113818,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw78fu",
+      "tipo": "page_view",
+      "timestamp": 1795718113914,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw78fu",
+      "tipo": "exit",
+      "timestamp": 1795718114008,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw78k5",
+      "tipo": "page_view",
+      "timestamp": 1795718114070,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw78k5",
+      "tipo": "exit",
+      "timestamp": 1795718114165,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw78on",
+      "tipo": "page_view",
+      "timestamp": 1795718114231,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw78on",
+      "tipo": "exit",
+      "timestamp": 1795718114689,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw793x",
+      "tipo": "page_view",
+      "timestamp": 1795718114782,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw793x",
+      "tipo": "exit",
+      "timestamp": 1795718114863,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw797w",
+      "tipo": "page_view",
+      "timestamp": 1795718114925,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw797w",
+      "tipo": "exit",
+      "timestamp": 1795718115062,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw79de",
+      "tipo": "page_view",
+      "timestamp": 1795718115122,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw79de",
+      "tipo": "exit",
+      "timestamp": 1795718115280,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw79je",
+      "tipo": "page_view",
+      "timestamp": 1795718115338,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw79je",
+      "tipo": "exit",
+      "timestamp": 1795718115408,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw79n8",
+      "tipo": "page_view",
+      "timestamp": 1795718115476,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw79n8",
+      "tipo": "exit",
+      "timestamp": 1795718115763,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw79x0",
+      "tipo": "page_view",
+      "timestamp": 1795718115828,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw79x0",
+      "tipo": "exit",
+      "timestamp": 1795718115904,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "page_view",
+      "timestamp": 1795718116039,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718120358,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 303,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718126258,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 400,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718129409,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 880,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 3
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "scroll",
+      "timestamp": 1795718131055,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 1360,
+      "dados": {
+        "profundidade": 75
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718131057,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 1360,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "scroll",
+      "timestamp": 1795718131872,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 1824,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718132424,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 1264,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718132942,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 784,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718133658,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 569,
+        "h": 438
+      },
+      "scrollY": 304,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718154556,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 299,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 21
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "time_on_section",
+      "timestamp": 1795718211626,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 253,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 4
+      }
+    },
+    {
+      "sessao": "sess_mwxw7a2v",
+      "tipo": "exit",
+      "timestamp": 1795718828506,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 712,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxwmjx0",
+      "tipo": "page_view",
+      "timestamp": 1795718828628,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxwmjx0",
+      "tipo": "exit",
+      "timestamp": 1795718832782,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 4,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxwmn6k",
+      "tipo": "page_view",
+      "timestamp": 1795718832860,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxwmn6k",
+      "tipo": "exit",
+      "timestamp": 1795718834682,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxwmomy",
+      "tipo": "page_view",
+      "timestamp": 1795718834746,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxwmomy",
+      "tipo": "exit",
+      "timestamp": 1795718882725,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 48,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxwnpqr",
+      "tipo": "page_view",
+      "timestamp": 1795718882835,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxwnpqr",
+      "tipo": "exit",
+      "timestamp": 1795718884578,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxwnrbg",
+      "tipo": "page_view",
+      "timestamp": 1795718884876,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Nome do projeto | Tema Principal — Cidade/UF"
+      }
+    },
+    {
+      "sessao": "sess_mwxwnrbg",
+      "tipo": "exit",
+      "timestamp": 1795718889660,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 5,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "page_view",
+      "timestamp": 1795718889798,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "time_on_section",
+      "timestamp": 1795718891479,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 400,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "scroll",
+      "timestamp": 1795718891645,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 480,
+      "dados": {
+        "profundidade": 25
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "scroll",
+      "timestamp": 1795718914196,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 960,
+      "dados": {
+        "profundidade": 50
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "time_on_section",
+      "timestamp": 1795718914198,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 960,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 23
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "scroll",
+      "timestamp": 1795718923127,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 1440,
+      "dados": {
+        "profundidade": 75
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "time_on_section",
+      "timestamp": 1795718923129,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 1440,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 9
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "scroll",
+      "timestamp": 1795718925527,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 1920,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "time_on_section",
+      "timestamp": 1795718926162,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 1368,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 3
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "time_on_section",
+      "timestamp": 1795718928589,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2544,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxwnv46",
+      "tipo": "exit",
+      "timestamp": 1795718951350,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2544,
+      "dados": {
+        "duracao_total_s": 62,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxwp6rx",
+      "tipo": "page_view",
+      "timestamp": 1795718951566,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2544,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxwp6rx",
+      "tipo": "exit",
+      "timestamp": 1795718953230,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2544,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 63
+      }
+    },
+    {
+      "sessao": "sess_mwxwp84m",
+      "tipo": "page_view",
+      "timestamp": 1795718953318,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2544,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxwp84m",
+      "tipo": "exit",
+      "timestamp": 1795718961617,
+      "url": "http://127.0.0.1:3000/teste?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2544,
+      "dados": {
+        "duracao_total_s": 8,
+        "scroll_max": 63
+      }
+    },
+    {
+      "sessao": "sess_mwxwpgui",
+      "tipo": "page_view",
+      "timestamp": 1795718964618,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxwpgui",
+      "tipo": "click",
+      "timestamp": 1795718968190,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": -3,
+        "y": 160,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxwpgui",
+      "tipo": "time_on_section",
+      "timestamp": 1795718969159,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 351,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 5
+      }
+    },
+    {
+      "sessao": "sess_mwxwpgui",
+      "tipo": "exit",
+      "timestamp": 1795719148329,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 1440,
+      "dados": {
+        "duracao_total_s": 184,
+        "scroll_max": 36
+      }
+    },
+    {
+      "sessao": "sess_mwxwtenj",
+      "tipo": "page_view",
+      "timestamp": 1795719148399,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 1440,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxwtenj",
+      "tipo": "exit",
+      "timestamp": 1795719149298,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 1440,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 36
+      }
+    },
+    {
+      "sessao": "sess_mwxwtff8",
+      "tipo": "page_view",
+      "timestamp": 1795719149396,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 1440,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxwtff8",
+      "tipo": "time_on_section",
+      "timestamp": 1795719158566,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 208,
+        "h": 438
+      },
+      "scrollY": 1622.4000244140625,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 6
+      }
+    },
+    {
+      "sessao": "sess_mwxwtff8",
+      "tipo": "scroll",
+      "timestamp": 1795719231949,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2022.4000244140625,
+      "dados": {
+        "profundidade": 50
+      }
+    },
+    {
+      "sessao": "sess_mwxwtff8",
+      "tipo": "exit",
+      "timestamp": 1795719265218,
+      "url": "http://127.0.0.1:3000/template-aluno.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2262.39990234375,
+      "dados": {
+        "duracao_total_s": 116,
+        "scroll_max": 78
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "page_view",
+      "timestamp": 1795719270886,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719272244,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 400,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "scroll",
+      "timestamp": 1795719272250,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 652,
+        "h": 438
+      },
+      "scrollY": 480,
+      "dados": {
+        "profundidade": 25
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719274472,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 1368,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "cta_click",
+      "timestamp": 1795719275001,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 1368,
+      "dados": {
+        "track": "cta-topo",
+        "texto": "Solicitar Orçamento",
+        "x": 160,
+        "y": 151
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "click",
+      "timestamp": 1795719275002,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 1368,
+      "dados": {
+        "x": 160,
+        "y": 151,
+        "scrollY": 1368
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719471743,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 276,
+        "h": 438
+      },
+      "scrollY": 3122.39990234375,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 8
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719471844,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 3912.800048828125,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "click",
+      "timestamp": 1795719480564,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 3512.800048828125,
+      "dados": {
+        "x": -4,
+        "y": 161,
+        "scrollY": 3512.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "click",
+      "timestamp": 1795719482345,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 429,
+        "h": 438
+      },
+      "scrollY": 2093.60009765625,
+      "dados": {
+        "x": 5,
+        "y": 163,
+        "scrollY": 2093.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719484335,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 1556,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 3
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719485348,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 996,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719485684,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 436,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "cta_click",
+      "timestamp": 1795719487929,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "track": "cta-topo",
+        "texto": "Solicitar Orçamento",
+        "x": 265,
+        "y": 68
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "click",
+      "timestamp": 1795719487931,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 265,
+        "y": 68,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719487936,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 1691.199951171875,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "cta_click",
+      "timestamp": 1795719488968,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 1691.199951171875,
+      "dados": {
+        "track": "nav-conteudo",
+        "texto": "Sobre / Guia",
+        "x": 324,
+        "y": 19
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "click",
+      "timestamp": 1795719488970,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 1691.199951171875,
+      "dados": {
+        "x": 324,
+        "y": 19,
+        "scrollY": 1691.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719488975,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 1274.4000244140625,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "cta_click",
+      "timestamp": 1795719489848,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 1274.4000244140625,
+      "dados": {
+        "track": "nav-destaques",
+        "texto": "Destaques",
+        "x": 209,
+        "y": 22
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "click",
+      "timestamp": 1795719489850,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 1274.4000244140625,
+      "dados": {
+        "x": 209,
+        "y": 22,
+        "scrollY": 1274.4000244140625
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719489855,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 641.5999755859375,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719490398,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 514,
+        "h": 438
+      },
+      "scrollY": 481.6000061035156,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719494971,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 361,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 5
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "time_on_section",
+      "timestamp": 1795719644822,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 352,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 7
+      }
+    },
+    {
+      "sessao": "sess_mwxww15x",
+      "tipo": "exit",
+      "timestamp": 1795719673353,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 402,
+        "scroll_max": 99
+      }
+    },
+    {
+      "sessao": "sess_mwxx4nrb",
+      "tipo": "page_view",
+      "timestamp": 1795719673416,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx4nrb",
+      "tipo": "exit",
+      "timestamp": 1795719674411,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx4okq",
+      "tipo": "page_view",
+      "timestamp": 1795719674474,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx4okq",
+      "tipo": "exit",
+      "timestamp": 1795719674531,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx4oox",
+      "tipo": "page_view",
+      "timestamp": 1795719674626,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx4oox",
+      "tipo": "exit",
+      "timestamp": 1795719675982,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx4ptc",
+      "tipo": "page_view",
+      "timestamp": 1795719676080,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx4ptc",
+      "tipo": "exit",
+      "timestamp": 1795719685169,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 9,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx4wve",
+      "tipo": "page_view",
+      "timestamp": 1795719685227,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx4wve",
+      "tipo": "exit",
+      "timestamp": 1795719689876,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 5,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx50o0",
+      "tipo": "page_view",
+      "timestamp": 1795719690144,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx50o0",
+      "tipo": "exit",
+      "timestamp": 1795719708650,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 19,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx5eze",
+      "tipo": "page_view",
+      "timestamp": 1795719708698,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx5eze",
+      "tipo": "exit",
+      "timestamp": 1795719711252,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 3,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx5h00",
+      "tipo": "page_view",
+      "timestamp": 1795719711313,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx5h00",
+      "tipo": "exit",
+      "timestamp": 1795719711705,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx5hcb",
+      "tipo": "page_view",
+      "timestamp": 1795719711756,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx5hcb",
+      "tipo": "exit",
+      "timestamp": 1795719716186,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 4,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "page_view",
+      "timestamp": 1795719716253,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "time_on_section",
+      "timestamp": 1795719742151,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 480,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 6
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "scroll",
+      "timestamp": 1795719744504,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1040,
+      "dados": {
+        "profundidade": 50
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "time_on_section",
+      "timestamp": 1795719744513,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1040,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "time_on_section",
+      "timestamp": 1795719745535,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1520,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "time_on_section",
+      "timestamp": 1795719748522,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1440,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 3
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "time_on_section",
+      "timestamp": 1795719748922,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 880,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "time_on_section",
+      "timestamp": 1795719749304,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 480,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx5kt9",
+      "tipo": "exit",
+      "timestamp": 1795719781935,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 80,
+      "dados": {
+        "duracao_total_s": 66,
+        "scroll_max": 93
+      }
+    },
+    {
+      "sessao": "sess_mwxx6zjc",
+      "tipo": "page_view",
+      "timestamp": 1795719781992,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 80,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx6zjc",
+      "tipo": "cta_click",
+      "timestamp": 1795719787270,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 80,
+      "dados": {
+        "track": "cta-saiba-mais",
+        "texto": "Saiba Mais",
+        "x": 304,
+        "y": 283
+      }
+    },
+    {
+      "sessao": "sess_mwxx6zjc",
+      "tipo": "click",
+      "timestamp": 1795719787273,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 80,
+      "dados": {
+        "x": 304,
+        "y": 283,
+        "scrollY": 80
+      }
+    },
+    {
+      "sessao": "sess_mwxx6zjc",
+      "tipo": "time_on_section",
+      "timestamp": 1795719787278,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1274.4000244140625,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 5
+      }
+    },
+    {
+      "sessao": "sess_mwxx6zjc",
+      "tipo": "time_on_section",
+      "timestamp": 1795719788582,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 954.4000244140625,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx6zjc",
+      "tipo": "time_on_section",
+      "timestamp": 1795719788999,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 474.3999938964844,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6zjc",
+      "tipo": "exit",
+      "timestamp": 1795719794195,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 12,
+        "scroll_max": 62
+      }
+    },
+    {
+      "sessao": "sess_mwxx790n",
+      "tipo": "page_view",
+      "timestamp": 1795719794279,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx790n",
+      "tipo": "exit",
+      "timestamp": 1795719840194,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 46,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx88jz",
+      "tipo": "page_view",
+      "timestamp": 1795719840336,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx88jz",
+      "tipo": "exit",
+      "timestamp": 1795719840597,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx88sp",
+      "tipo": "page_view",
+      "timestamp": 1795719840649,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx88sp",
+      "tipo": "exit",
+      "timestamp": 1795719840710,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx88y0",
+      "tipo": "page_view",
+      "timestamp": 1795719840841,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx88y0",
+      "tipo": "exit",
+      "timestamp": 1795719842484,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx8a8w",
+      "tipo": "page_view",
+      "timestamp": 1795719842529,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx8a8w",
+      "tipo": "exit",
+      "timestamp": 1795719858198,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 16,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx8mdz",
+      "tipo": "page_view",
+      "timestamp": 1795719858264,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx8mdz",
+      "tipo": "exit",
+      "timestamp": 1795719880104,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 22,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx939z",
+      "tipo": "page_view",
+      "timestamp": 1795719880151,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx939z",
+      "tipo": "exit",
+      "timestamp": 1795719881617,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx94gz",
+      "tipo": "page_view",
+      "timestamp": 1795719881700,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx94gz",
+      "tipo": "exit",
+      "timestamp": 1795719882594,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx957l",
+      "tipo": "page_view",
+      "timestamp": 1795719882657,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx957l",
+      "tipo": "exit",
+      "timestamp": 1795719882681,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx959i",
+      "tipo": "page_view",
+      "timestamp": 1795719882727,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx959i",
+      "tipo": "exit",
+      "timestamp": 1795719886744,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 4,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx98im",
+      "tipo": "page_view",
+      "timestamp": 1795719886942,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx98im",
+      "tipo": "exit",
+      "timestamp": 1795719907126,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 20,
+        "scroll_max": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "page_view",
+      "timestamp": 1795719907212,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "cta_click",
+      "timestamp": 1795719973316,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "track": "nav-destaques",
+        "texto": "Destaques",
+        "x": 201,
+        "y": 20
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "click",
+      "timestamp": 1795719973319,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 201,
+        "y": 20,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "time_on_section",
+      "timestamp": 1795719973322,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 641.5999755859375,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 66
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "cta_click",
+      "timestamp": 1795719974069,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 641.5999755859375,
+      "dados": {
+        "track": "nav-conteudo",
+        "texto": "Sobre / Guia",
+        "x": 274,
+        "y": 25
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "click",
+      "timestamp": 1795719974071,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#destaques",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 641.5999755859375,
+      "dados": {
+        "x": 274,
+        "y": 25,
+        "scrollY": 641.5999755859375
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "time_on_section",
+      "timestamp": 1795719974075,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1274.4000244140625,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "cta_click",
+      "timestamp": 1795719974741,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1274.4000244140625,
+      "dados": {
+        "track": "cta-topo",
+        "texto": "Solicitar Orçamento",
+        "x": 276,
+        "y": 83
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "click",
+      "timestamp": 1795719974743,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1274.4000244140625,
+      "dados": {
+        "x": 276,
+        "y": 83,
+        "scrollY": 1274.4000244140625
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "time_on_section",
+      "timestamp": 1795719974750,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 517,
+        "h": 438
+      },
+      "scrollY": 1691.199951171875,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "time_on_section",
+      "timestamp": 1795720255024,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 445,
+        "h": 438
+      },
+      "scrollY": 1768,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 280
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "time_on_section",
+      "timestamp": 1795720255557,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 214,
+        "h": 438
+      },
+      "scrollY": 2645.60009765625,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9o5o",
+      "tipo": "exit",
+      "timestamp": 1795720573143,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2696.800048828125,
+      "dados": {
+        "duracao_total_s": 666,
+        "scroll_max": 82
+      }
+    },
+    {
+      "sessao": "sess_mwxxny1s",
+      "tipo": "page_view",
+      "timestamp": 1795720573217,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2696.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxny1s",
+      "tipo": "exit",
+      "timestamp": 1795720574054,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2696.800048828125,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 67
+      }
+    },
+    {
+      "sessao": "sess_mwxxnyti",
+      "tipo": "page_view",
+      "timestamp": 1795720574214,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2480.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxnyti",
+      "tipo": "exit",
+      "timestamp": 1795720574585,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2480.800048828125,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 61
+      }
+    },
+    {
+      "sessao": "sess_mwxxnz5b",
+      "tipo": "page_view",
+      "timestamp": 1795720574639,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2428.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxnz5b",
+      "tipo": "exit",
+      "timestamp": 1795720575047,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2428.800048828125,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 60
+      }
+    },
+    {
+      "sessao": "sess_mwxxnzi3",
+      "tipo": "page_view",
+      "timestamp": 1795720575100,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2376.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxnzi3",
+      "tipo": "exit",
+      "timestamp": 1795720575954,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2376.800048828125,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 59
+      }
+    },
+    {
+      "sessao": "sess_mwxxo07f",
+      "tipo": "page_view",
+      "timestamp": 1795720576011,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2324.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxo07f",
+      "tipo": "exit",
+      "timestamp": 1795720582300,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2324.800048828125,
+      "dados": {
+        "duracao_total_s": 6,
+        "scroll_max": 57
+      }
+    },
+    {
+      "sessao": "sess_mwxxo54x",
+      "tipo": "page_view",
+      "timestamp": 1795720582402,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2272.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxo54x",
+      "tipo": "exit",
+      "timestamp": 1795720584404,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2272.800048828125,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 56
+      }
+    },
+    {
+      "sessao": "sess_mwxxo6qj",
+      "tipo": "page_view",
+      "timestamp": 1795720584476,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 3253.60009765625,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxo6qj",
+      "tipo": "exit",
+      "timestamp": 1795720586303,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 3253.60009765625,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 80
+      }
+    },
+    {
+      "sessao": "sess_mwxxo86o",
+      "tipo": "page_view",
+      "timestamp": 1795720586353,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2436.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxo86o",
+      "tipo": "exit",
+      "timestamp": 1795720593062,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2436.800048828125,
+      "dados": {
+        "duracao_total_s": 7,
+        "scroll_max": 60
+      }
+    },
+    {
+      "sessao": "sess_mwxxodek",
+      "tipo": "page_view",
+      "timestamp": 1795720593117,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2384.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxodek",
+      "tipo": "exit",
+      "timestamp": 1795720593688,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2384.800048828125,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 59
+      }
+    },
+    {
+      "sessao": "sess_mwxxodvt",
+      "tipo": "page_view",
+      "timestamp": 1795720593738,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2332.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxodvt",
+      "tipo": "exit",
+      "timestamp": 1795720594371,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2332.800048828125,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 58
+      }
+    },
+    {
+      "sessao": "sess_mwxxoefr",
+      "tipo": "page_view",
+      "timestamp": 1795720594456,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2280.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxoefr",
+      "tipo": "exit",
+      "timestamp": 1795720596026,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2280.800048828125,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 56
+      }
+    },
+    {
+      "sessao": "sess_mwxxofor",
+      "tipo": "page_view",
+      "timestamp": 1795720596075,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2228.800048828125,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxofor",
+      "tipo": "exit",
+      "timestamp": 1795720596829,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 2228.800048828125,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 55
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "page_view",
+      "timestamp": 1795720596879,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 205,
+        "h": 438
+      },
+      "scrollY": 3209.60009765625,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720606644,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1555.199951171875,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720607093,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 995.2000122070312,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720607658,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 435.20001220703125,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "cta_click",
+      "timestamp": 1795720609448,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "track": "cta-saiba-mais",
+        "texto": "Saiba Mais",
+        "x": 283,
+        "y": 354
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720609450,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 283,
+        "y": 354,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720609456,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1288.800048828125,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "cta_click",
+      "timestamp": 1795720610817,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1288.800048828125,
+      "dados": {
+        "track": "cta-topo",
+        "texto": "Solicitar Orçamento",
+        "x": 248,
+        "y": 91
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720610818,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1288.800048828125,
+      "dados": {
+        "x": 248,
+        "y": 91,
+        "scrollY": 1288.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720610824,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1705.5999755859375,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720612072,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1545.5999755859375,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720612703,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 985.5999755859375,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720613638,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 425.6000061035156,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "cta_click",
+      "timestamp": 1795720615728,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "track": "cta-saiba-mais",
+        "texto": "Saiba Mais",
+        "x": 284,
+        "y": 376
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720615731,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#contato",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 284,
+        "y": 376,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720615738,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1288.800048828125,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720620289,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1288.800048828125,
+      "dados": {
+        "x": 128,
+        "y": 235,
+        "scrollY": 1288.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "cta_click",
+      "timestamp": 1795720622541,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1288.800048828125,
+      "dados": {
+        "track": "logo",
+        "texto": "I\n        Iron Fitness",
+        "x": 115,
+        "y": 85
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720622544,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#conteudo",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1288.800048828125,
+      "dados": {
+        "x": 115,
+        "y": 85,
+        "scrollY": 1288.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720622548,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 7
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720697984,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 480,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 75
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720706404,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1040,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 5
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720707951,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1120,
+      "dados": {
+        "x": 331,
+        "y": 209,
+        "scrollY": 1120
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720732090,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1520,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 26
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720735824,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1840,
+      "dados": {
+        "x": 264,
+        "y": 240,
+        "scrollY": 1840
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "form_start",
+      "timestamp": 1795720737881,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1840,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "click",
+      "timestamp": 1795720737885,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1840,
+      "dados": {
+        "x": 42,
+        "y": 221,
+        "scrollY": 1840
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "scroll",
+      "timestamp": 1795720740905,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 2076,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720743265,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1516,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 10
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720743802,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 1036,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720744482,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 527,
+        "h": 438
+      },
+      "scrollY": 476,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "time_on_section",
+      "timestamp": 1795720749153,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 364,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 5
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "form_abandon",
+      "timestamp": 1795721312970,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "exit",
+      "timestamp": 1795721312972,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 716,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "form_abandon",
+      "timestamp": 1795721313175,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "exit",
+      "timestamp": 1795721313177,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 716,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "form_abandon",
+      "timestamp": 1795721313213,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxxogb3",
+      "tipo": "exit",
+      "timestamp": 1795721313216,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "duracao_total_s": 716,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "page_view",
+      "timestamp": 1795721313509,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721393015,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 619.2000122070312,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "scroll",
+      "timestamp": 1795721393031,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 731.2000122070312,
+      "dados": {
+        "profundidade": 25
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721393679,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 1408.800048828125,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721394215,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2249.60009765625,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "scroll",
+      "timestamp": 1795721394279,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2928.800048828125,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721394282,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2928.800048828125,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721395065,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2325.60009765625,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721395200,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 1613.5999755859375,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721395583,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 1571.199951171875,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721395665,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2174.39990234375,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721397262,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2371.199951171875,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721397684,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2172.800048828125,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "time_on_section",
+      "timestamp": 1795721398500,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2376.800048828125,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "click",
+      "timestamp": 1795721400091,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2354.39990234375,
+      "dados": {
+        "x": 141,
+        "y": 358,
+        "scrollY": 2354.39990234375
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "form_start",
+      "timestamp": 1795721401058,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2354.39990234375,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "click",
+      "timestamp": 1795721406537,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2535.199951171875,
+      "dados": {
+        "x": 75,
+        "y": 275,
+        "scrollY": 2535.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "click",
+      "timestamp": 1795721420330,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2609.60009765625,
+      "dados": {
+        "x": 128,
+        "y": 293,
+        "scrollY": 2609.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "click",
+      "timestamp": 1795721422610,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2609.60009765625,
+      "dados": {
+        "x": 124,
+        "y": 277,
+        "scrollY": 2609.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "click",
+      "timestamp": 1795721427825,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2719.199951171875,
+      "dados": {
+        "x": 156,
+        "y": 260,
+        "scrollY": 2719.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "click",
+      "timestamp": 1795721428823,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2719.199951171875,
+      "dados": {
+        "x": 156,
+        "y": 260,
+        "scrollY": 2719.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "click",
+      "timestamp": 1795721431522,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2719.199951171875,
+      "dados": {
+        "x": 104,
+        "y": 356,
+        "scrollY": 2719.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "form_abandon",
+      "timestamp": 1795721454408,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2719.199951171875,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxy3t9g",
+      "tipo": "exit",
+      "timestamp": 1795721454411,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2719.199951171875,
+      "dados": {
+        "duracao_total_s": 141,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "page_view",
+      "timestamp": 1795721454538,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2719.199951171875,
+      "dados": {
+        "titulo": "Iron Fitness | Academia e Saúde"
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "time_on_section",
+      "timestamp": 1795721457243,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2902.39990234375,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 3
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "scroll",
+      "timestamp": 1795721457277,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2914.39990234375,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "time_on_section",
+      "timestamp": 1795721465293,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2334.39990234375,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 4
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "time_on_section",
+      "timestamp": 1795721466032,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2178.39990234375,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721468473,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2439.199951171875,
+      "dados": {
+        "x": 93,
+        "y": 301,
+        "scrollY": 2439.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "form_start",
+      "timestamp": 1795721470048,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2439.199951171875,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721476441,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2496.800048828125,
+      "dados": {
+        "x": 92,
+        "y": 299,
+        "scrollY": 2496.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721486838,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2685.60009765625,
+      "dados": {
+        "x": 103,
+        "y": 393,
+        "scrollY": 2685.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "cta_click",
+      "timestamp": 1795721498453,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2817.60009765625,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Enviar agora\n              →",
+        "x": 128,
+        "y": 349
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721498460,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2817.60009765625,
+      "dados": {
+        "x": 128,
+        "y": 349,
+        "scrollY": 2817.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "form_submit",
+      "timestamp": 1795721498466,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2817.60009765625,
+      "dados": {
+        "nome_mascarado": "Lucas ***",
+        "email_mascarado": "Ma***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Matrícula / Inscrição",
+        "persona_hint": "estudante",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 27
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "time_on_section",
+      "timestamp": 1795721501775,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2404.800048828125,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 34
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721504344,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2396.800048828125,
+      "dados": {
+        "x": 88,
+        "y": 320,
+        "scrollY": 2396.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721511867,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2493.60009765625,
+      "dados": {
+        "x": 104,
+        "y": 319,
+        "scrollY": 2493.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "time_on_section",
+      "timestamp": 1795721519947,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2995.199951171875,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 10
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721523042,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2730.39990234375,
+      "dados": {
+        "x": 137,
+        "y": 245,
+        "scrollY": 2730.39990234375
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721525680,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2730.39990234375,
+      "dados": {
+        "x": 42,
+        "y": 222,
+        "scrollY": 2730.39990234375
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721527638,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2557.60009765625,
+      "dados": {
+        "x": 127,
+        "y": 332,
+        "scrollY": 2557.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721529659,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2557.60009765625,
+      "dados": {
+        "x": 42,
+        "y": 313,
+        "scrollY": 2557.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721530073,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2559.199951171875,
+      "dados": {
+        "x": 121,
+        "y": 401,
+        "scrollY": 2559.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721532102,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2559.199951171875,
+      "dados": {
+        "x": 16,
+        "y": 388,
+        "scrollY": 2559.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721534320,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2689.60009765625,
+      "dados": {
+        "x": 84,
+        "y": 405,
+        "scrollY": 2689.60009765625
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "cta_click",
+      "timestamp": 1795721541739,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2844,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Enviar agora\n              →",
+        "x": 128,
+        "y": 316
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721541745,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2844,
+      "dados": {
+        "x": 128,
+        "y": 316,
+        "scrollY": 2844
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "form_submit",
+      "timestamp": 1795721541751,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2844,
+      "dados": {
+        "nome_mascarado": "Larissa ***",
+        "email_mascarado": "la***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Informações Gerais",
+        "persona_hint": "voluntario",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 27
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "time_on_section",
+      "timestamp": 1795721544108,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2413.60009765625,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 24
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721545351,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2394.39990234375,
+      "dados": {
+        "x": 128,
+        "y": 316,
+        "scrollY": 2394.39990234375
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721553884,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2504,
+      "dados": {
+        "x": 123,
+        "y": 310,
+        "scrollY": 2504
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721566555,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2580.800048828125,
+      "dados": {
+        "x": 123,
+        "y": 322,
+        "scrollY": 2580.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721569106,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2580.800048828125,
+      "dados": {
+        "x": 42,
+        "y": 289,
+        "scrollY": 2580.800048828125
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721571181,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2655.199951171875,
+      "dados": {
+        "x": 126,
+        "y": 418,
+        "scrollY": 2655.199951171875
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "cta_click",
+      "timestamp": 1795721584948,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2776,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Enviar agora\n              →",
+        "x": 156,
+        "y": 384
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "click",
+      "timestamp": 1795721584958,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2776,
+      "dados": {
+        "x": 156,
+        "y": 384,
+        "scrollY": 2776
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "form_submit",
+      "timestamp": 1795721584965,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2776,
+      "dados": {
+        "nome_mascarado": "Nikolas ***",
+        "email_mascarado": "so***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Planos e Valores",
+        "persona_hint": "estudante",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 41
+      }
+    },
+    {
+      "sessao": "sess_mwxy6u2x",
+      "tipo": "time_on_section",
+      "timestamp": 1795721605504,
+      "url": "http://127.0.0.1:3000/index.html?vscode-livepreview=true#",
+      "viewport": {
+        "w": 302,
+        "h": 438
+      },
+      "scrollY": 2947.199951171875,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 54
+      }
+    }
+  ]
+}
